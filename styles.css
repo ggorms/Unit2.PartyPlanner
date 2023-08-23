@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#titles {
+    display: flex;
+}
+
+h2 {
+    margin-right: 50px;
+}
+
+#data {
+    display: flex;
+}
+
+p{
+    padding-bottom: 40px;
+}
+
+#name,#date,#time,#location,#description {
+    margin-right: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#party {
+    margin-top: 500px;
+}
